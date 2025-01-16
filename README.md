@@ -1,1 +1,1 @@
-# alu-scripting
+this is a readme 
